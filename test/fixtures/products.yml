@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  upc: MyString
+  matnr: MyString
+  description: MyString
+  long_description: MyText
+  manufacturer_part_number: MyString
+  country_of_origin: MyString
+  item_pik: MyString
+  summit_part_number: MyString
+  uom: MyString
+  min_qty: 1
+  restricted: 
+  batch: false
+  product_name: MyString
+
+two:
+  name: MyString
+  upc: MyString
+  matnr: MyString
+  description: MyString
+  long_description: MyText
+  manufacturer_part_number: MyString
+  country_of_origin: MyString
+  item_pik: MyString
+  summit_part_number: MyString
+  uom: MyString
+  min_qty: 1
+  restricted: 
+  batch: false
+  product_name: MyString
